@@ -1,0 +1,7 @@
+print('oooooooooooo')
+print('o          o')
+print('o  #    #  o')
+print('o    #     o')
+print('o  #    #  o')
+print('o          o')
+print('oooooooooooo')
